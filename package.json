@@ -1,0 +1,17 @@
+{
+  "name": "easyspotify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "EasySpotify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chen Ozer <chen572@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
